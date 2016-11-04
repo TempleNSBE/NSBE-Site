@@ -234,17 +234,26 @@ h1 {
   font-size: 50px;
 }
 
+h2 {
+  font-family: avenir;
+}
+
 .img-circle {
-  width: 100%;
-  height: auto;
+  height: 90%;
+  width: auto;
+}
+
+#eboard > .row > .row {
+  height: 200px;
+  width: 90%;
 }
 
 #icons {
   padding-top: 100px;
 }
 
-#icons > img {
-  display: inline;
+#icons > a {
+  padding-left: 10px;
 }
 
 .social {
@@ -263,4 +272,21 @@ h1 {
 h4 {
   padding-top: 150px;
   font-size: 50px;
+}
+
+#sponsors > img {
+  width: 100%;
+  height: auto;
+}
+
+#contact {
+  background-color: #D8D8D8;
+}
+
+#contact > p {
+  padding-top: 30px;
+}
+
+#sponsors > div.row > p {
+  padding-top: 350px;
 }
