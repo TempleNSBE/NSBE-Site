@@ -239,8 +239,8 @@ h2 {
 }
 
 .img-circle {
-  height: 90%;
-  width: auto;
+  width: 100%;
+  height: auto;
 }
 
 #eboard > .row > .row {
@@ -293,5 +293,4 @@ h4 {
 
 #contact {
   background-color: #CA6D64;
-;
 }
