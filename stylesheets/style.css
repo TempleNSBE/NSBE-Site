@@ -213,16 +213,6 @@ img {
   width: 70%;
 }
 
-.topic-card {
-  background-color: white;
-  height: 300px;
-  width: 200px;
-  border-radius: 5px;
-  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
-  overflow-y: scroll;
-  padding-bottom: 20px;
-}
-
 #events {
   background-color: #CA6D64;
 }
@@ -239,12 +229,11 @@ h2 {
 }
 
 .img-circle {
-  width: 100%;
+  width: 14em;
   height: auto;
 }
 
 #eboard > .row > .row {
-  height: 200px;
   width: 90%;
 }
 
@@ -263,10 +252,6 @@ h2 {
 
 #join {
   background-color: #D8D8D8;
-}
-
-#eboard > .col-md-3 {
-  overflow: scroll;
 }
 
 h4 {
