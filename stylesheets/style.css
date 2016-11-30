@@ -10,6 +10,10 @@ section {
   padding-bottom: 50px;
 }
 
+#home > h2 {
+  font-family: Futura;
+}
+
 .navbar {
   background-color: white;
 }
@@ -278,4 +282,9 @@ h4 {
 
 #contact {
   background-color: #CA6D64;
+}
+
+iframe {
+  height: 80%;
+  width: 80%;
 }
