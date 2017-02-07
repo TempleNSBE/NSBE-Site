@@ -37,6 +37,10 @@ img {
   width: auto;
 }
 
+#sponsors > .row > img {
+  padding-top: 2.5em;
+}
+
 #about > .row > .col-md-6 > div > img {
   display: block;
   margin: auto;
@@ -261,11 +265,6 @@ h2 {
 h4 {
   padding-top: 150px;
   font-size: 50px;
-}
-
-#sponsors > img {
-  width: 100%;
-  height: auto;
 }
 
 #contact {
