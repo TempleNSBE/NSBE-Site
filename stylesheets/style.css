@@ -10,6 +10,11 @@ section {
   padding-bottom: 50px;
 }
 
+.wsp {
+  height: 100%;
+  width: auto;
+}
+
 #home > h2 {
   font-family: Futura;
 }
